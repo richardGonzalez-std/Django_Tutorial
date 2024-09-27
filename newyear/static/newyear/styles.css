@@ -1,0 +1,12 @@
+body{
+            
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+h1{
+    margin-top: 20%; 
+    font-size: 122px;
+    text-shadow: 3px 2px red;
+    text-transform: uppercase;
+}   
